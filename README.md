@@ -49,8 +49,12 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 <p><b>How do I join ESPA?</b></br>
 Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digitalax.xyz/</a> and join the <a href="https://discord.com/invite/QM6CktUsKw">ESPA Discord</a>. There upcoming tournaments will be announced. </br> Select server region Digitalax to play on ESPA.</p>
 
-<p><b>How do i get new skins?</b></br>
-New outfits designed by Kodomadachi and Charli Cohen are added directly into the game as NFTs. You can buy / earn these outfits on the Digitalax marcetplace.</p>
+<p><b>How do i get new outfits?</b></br>
+New outfits designed by Kodomadachi and Charli Cohen are added directly into the game as NFTs. You can buy / earn these outfits on the Digitalax marcetplace. </br>
+It is required to play on Digitalax servers to play with skins and hats.</p>
+
+<p><b>Why are there no vanilla outfits?</b></br>
+Vanilla skins and hats are locked at the moment and may be activated again in the future. We replaced many cosmetics by the ESPA ones.</p>
 
 <h2>Donate</h2>
 
