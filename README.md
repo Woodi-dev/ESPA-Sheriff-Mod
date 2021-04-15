@@ -51,7 +51,7 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 
 <p><b>How do i get new outfits?</b></br>
 New outfits designed by Kodomadachi and Charli Cohen are added directly into the game as NFTs. You can buy / earn these outfits on the Digitalax marcetplace.
-It is required to play on Digitalax servers to use the new ESPA collection</p>
+It is required to play on Digitalax servers to use the new ESPA collection.</p>
 
 <p><b>Why are there no vanilla outfits?</b></br>
 Vanilla skins and hats are locked at the moment and may be activated again in the future. We replaced many cosmetics by the ESPA ones.</p>
