@@ -81,5 +81,4 @@ You can <a href="https://github.com/Woodi-dev/Among-Us-Sheriff-Mod/issues/new">r
 </p>
 
 <h2>License</h2>
-<p>This software is distributed under the <b>GNU GPLv3</b> License.
 <a href="https://github.com/BepInEx/BepInEx">BepinEx</a> is distributed under <b>LGPL-2.1</b> License.</p>
