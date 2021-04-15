@@ -19,7 +19,7 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 <p>Verifying installation success<p>
 <ul>
   <li>Launch the Game via Among Us.exe.
-  <li>In the top-left corner, below Among Us version, you should see <em>Outfit collection vx.y</em> and <em>loaded Sheriff Mod vx.y by Woodi </em>
+  <li>In the top-left corner, below Among Us version, you should see <em>> Digitalax < Outfit Collection vx.y</em> and <em>loaded Sheriff Mod vx.y by Woodi </em>
 </ul>
 <p>If you don't see this message please take a look at our 
   <a href="#troubleshooting">troubleshooting section</a>.
