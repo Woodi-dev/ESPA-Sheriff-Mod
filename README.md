@@ -77,7 +77,7 @@ For exclusive modding requests contact me: <a href="mailto:Woodi-dev@gmx.de">Woo
 </p>
 
 <p><b>I can't find my issue.</b></br>
-You can <a href="https://github.com/Woodi-dev/Among-Us-Sheriff-Mod/issues/new">raise an issue within GitHub</a> documenting your issue. You will need to be logged into GitHub to do this.
+You can <a href="https://github.com/Woodi-dev/ESPA-Sheriff-Mod/issues/new">raise an issue within GitHub</a> documenting your issue. You will need to be logged into GitHub to do this.
 </p>
 
 <h2>License</h2>
