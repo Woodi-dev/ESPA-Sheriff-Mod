@@ -51,15 +51,12 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 </details>
 <h2>Q&A</h2>
  
-<p><b>Can you play Proximity Chat (Crewlink) with it?</b></br>
-Yes Crewlink does support Among Us Modifications.</p>
-<p><b>Can you get banned for playing on public Servers?</b></br>
-At the current state of the game there is no perma ban system for the game. The mod is designed in a way, that it does not send prohibited server requests.
-You are also able to join your own custom server to be safe <a href="https://github.com/Impostor/Impostor">(Impostor)</a></p>
-<p><b>How can i join a custom server?</b></br>
-Go to your game directory and open BepInEx/config/org.bepinex.plugins.SheriffMod.txt. There you can set the hostname or IP of the server. Then set the server region to CUSTOM.</p>
-<p><b>Do my friends need to install the mod to play it together?</b></br>
-Yes. Every player in the game lobby has to install it.</p>
+<p><b>How do I join ESPA?</b></br>
+Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digitalax.xyz/</a> and join the <a href="https://discord.com/invite/QM6CktUsKw">ESPA Discord</a>. There upcoming tournaments will be announced. </br> Select server region Digitalax to play on ESPA.</p>
+
+<p><b>How do i get new skins?</b></br>
+New outfits by designers Kodomadachi and Charli Cohen added directly into the game as NFTs. You can buy / earn these outfits onthe Digitalax marcetplace.</p>
+
 <h2>Donate</h2>
 
 <a href="https://www.paypal.com/donate?hosted_button_id=TWGK7A9VBVPRU"><img src ="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal button" ></img></a>
