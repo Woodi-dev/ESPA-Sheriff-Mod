@@ -47,7 +47,7 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 <h2>Q&A</h2>
  
 <p><b>How do I join ESPA?</b></br>
-Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digitalax.xyz/</a> and join the <a href="https://discord.com/invite/QM6CktUsKw">ESPA Discord</a>. There upcoming tournaments will be announced. </br> Select server region Digitalax to play on ESPA.</p>
+Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digitalax.xyz/</a> and join the <a href="https://discord.com/invite/QM6CktUsKw">ESPA Discord</a>. There upcoming tournaments will be announced. Select server region Digitalax to play on ESPA.</p>
 
 <p><b>How do i get new outfits?</b></br>
 New outfits designed by Kodomadachi and Charli Cohen are added directly into the game as NFTs. You can buy / earn these outfits on the Digitalax marcetplace.
