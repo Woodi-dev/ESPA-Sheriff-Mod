@@ -13,7 +13,7 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
 <ul>
 <li>Download the Mod for your specific game version. You are not able to launch the game if the versions do not match.</li>
 <li>Make a copy of your game’s root directory (Steam/steamapps/common/Among Us) and rename it to whatever you want (Steam/steamapps/common/Among Us ESPA Sheriff Mod) </li>
-<li>Extract the content of Among Us ESPA Sheriff Mod.zip into the copied folder you created</li>
+<li>Extract the content of Among Us ESPA Sheriff Mod.zip into the copied folder you created and accept the replacement</li>
 <li>Open your modded folder and open the Game via Among Us.exe</li>
 </ul>
 <p>Verifying installation success<p>
