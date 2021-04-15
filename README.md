@@ -6,7 +6,7 @@
 The Sheriff is able to kill Impostors. If they shoot a Crewmate, they will lose their life instead.
 <h3>What is ESPA?</h3>
 ESPA is the first ever dedicated Esports platform for independent developers, modders, designers and casual players or gamers.
-With this mod you are able to participate for Among Us tournaments on ESPA. Play the OG Sheriff mod with the new ingame outfits with other ESPA players.
+With this mod you are able to participate for Among Us tournaments on ESPA. Play the OG Sheriff mod with new ingame outfits with other ESPA players.
 Check out thr website <a href="https://espa.digitalax.xyz/">https://espa.digitalax.xyz/</a> and the <a href="https://discord.com/invite/QM6CktUsKw">ESPA Discord</a>.
 
 <h2 id="installation"> Installation </h2>
