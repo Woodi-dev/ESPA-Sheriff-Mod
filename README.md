@@ -36,7 +36,7 @@ Check out the website <a href="https://espa.digitalax.xyz/">https://espa.digital
         <tr>
     <td>v2021.4.14s</td>
     <td>v1.23</td>
-    <td><a href="https://github.com/Woodi-dev/ESPA-Sheriff-Mod/releases/download/v1.23_2021.4.14s/Among.Us.ESPA.Sherif.fv1.23.v2021.4.14s.zip">Download</></td>
+    <td><a href="https://github.com/Woodi-dev/ESPA-Sheriff-Mod/releases/download/v1.23_2021.4.14s/Among.Us.ESPA.Sheriff.v1.23.v2021.4.14s.zip">Download</></td>
 
 
 
